@@ -45,3 +45,8 @@ Interest: Bone biology
 What I want to learn: RNAseq
 - - - 	
 >>>>>>> 798365fb85d923c3990eedde5db5566a6ecad1cb
+
+**Anna Wojcicka, PhD**
+Postdoc, Medical University of Warsaw
+Research interest:microRNAs, thyroid
+What I want to learn: get backrgoung in small RNAseq analysis with a specific focus on SNP identification
